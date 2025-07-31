@@ -1,0 +1,7 @@
+### Story Summary
+
+Your clan [[Clan Mhärk]] was ambushed in the dead of night, the warchief rallied the warriors to fend off an illusive enemy. The defenses were overwhelmed, knocked out and captured, now you and your battle brothers and sisters are locked up in an unknown cells in an unknown dungeon. will you escape and find out the fate of your clan, or succumb to your fates. 
+
+### Location Summary
+
+Chapter 1 takes place in the Dread Keep, the ruler of this fort being [[The Barron]] however he has fallen under the influence of the [[The Lich]] who is using the resources of the Dread Keep and the garrison under [[The Barron]]'s control to round up people from the surrounding local areas to be slaughtered and their bones extracted from flesh to be used to build an undead army under control of [[The Lich]]. The Barron is under control due to powerful magic, however the men under his command are not but operate under his command either through loyalty or fear as decenters are either maimed or taken to be slaughtered for bone extraction. The exterior defenses of the Keep are manned primarily by The Barron's forces while the more interior and deeper parts are occupied by Acolytes and reanimated bone soldiers.

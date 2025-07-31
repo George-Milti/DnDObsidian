@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"e14fed2e76216c46","type":"text","text":"The Guards Quarters","x":-268,"y":-220,"width":160,"height":70},
+		{"id":"9a967bcdd032cd32","type":"text","text":"The Foyer","x":-268,"y":-340,"width":160,"height":70},
+		{"id":"2cb501186ff10c4d","type":"text","text":"The Kitchen","x":-40,"y":-340,"width":160,"height":70},
+		{"id":"60ae2e8980ed139a","type":"text","text":"Dinning Room","x":180,"y":-340,"width":160,"height":70},
+		{"id":"7829aba3b775bef4","type":"text","text":"Meeting Hall","x":-268,"y":-560,"width":160,"height":60},
+		{"id":"b192700f34206ec7","type":"text","text":"Storeroom/Storage Cellar","x":-50,"y":-150,"width":180,"height":88},
+		{"id":"b588e3ddf97717e2","type":"text","text":"The Underground","x":-279,"y":-20,"width":171,"height":60}
+	],
+	"edges":[
+		{"id":"5f6e52827333d57e","fromNode":"b588e3ddf97717e2","fromSide":"top","toNode":"e14fed2e76216c46","toSide":"bottom","fromEnd":"arrow"},
+		{"id":"98a72bb26192a9b0","fromNode":"e14fed2e76216c46","fromSide":"top","toNode":"9a967bcdd032cd32","toSide":"bottom","fromEnd":"arrow"},
+		{"id":"52d73b92a77e725b","fromNode":"b588e3ddf97717e2","fromSide":"top","toNode":"b192700f34206ec7","toSide":"left"},
+		{"id":"74eb369267e919d7","fromNode":"9a967bcdd032cd32","fromSide":"top","toNode":"7829aba3b775bef4","toSide":"bottom","fromEnd":"arrow"},
+		{"id":"07888a620a7ec171","fromNode":"e14fed2e76216c46","fromSide":"right","toNode":"2cb501186ff10c4d","toSide":"bottom","fromEnd":"arrow"},
+		{"id":"e6bac04807e83c09","fromNode":"9a967bcdd032cd32","fromSide":"right","toNode":"2cb501186ff10c4d","toSide":"left","fromEnd":"arrow"},
+		{"id":"4f68ff771539664f","fromNode":"2cb501186ff10c4d","fromSide":"bottom","toNode":"b192700f34206ec7","toSide":"top","fromEnd":"arrow"},
+		{"id":"269d8dfca400094b","fromNode":"2cb501186ff10c4d","fromSide":"right","toNode":"60ae2e8980ed139a","toSide":"left","fromEnd":"arrow"},
+		{"id":"81ee444116b93e33","fromNode":"60ae2e8980ed139a","fromSide":"top","toNode":"9a967bcdd032cd32","toSide":"top","fromEnd":"arrow"}
+	]
+}

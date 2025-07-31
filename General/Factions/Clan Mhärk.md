@@ -1,0 +1,1 @@
+Clan Mhärk is not a single clan but more of a collection of isolated barbarian tribes that are unified in their belief of the deity [[Mhärk]]. They live a nomadic life atop the [[Iron Peaks]]. Once a year the segments of the clan congregate to the [[Altus Forge]] for a ritualistic birth of new Steel.
