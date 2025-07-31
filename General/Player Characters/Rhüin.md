@@ -5,4 +5,6 @@ A boisterous attitude clads this mighty warrior in armor. His body is trained an
 
 Rhuin loves talking but the topics are usually rather simple, its more he doesn't like the silence then trying to have a good conversation.
 
+He has an unending loyalty to his battle-brothers
+
 He likes squirrels and rabbits.
